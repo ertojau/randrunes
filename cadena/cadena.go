@@ -6,7 +6,6 @@ package cadena
 
 import (
 	"math/rand"
-	"unicode/utf8"
 )
 
 func Cadena(s string, n int) string {
